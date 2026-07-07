@@ -21,4 +21,5 @@ Atividades feitas em dupla têm o colega creditado como colaborador oficial do r
 
 ## Projeto em destaque
 
-O simulador de carrinho de compras, desenvolvido em dupla com [@ArthurBigdedd](https://github.com/ArthurBigdedd), tem repositório próprio: [simulador-carrinho-compras-java](https://github.com/quietsunset95/simulador-carrinho-compras-java).
+O simulador de carrinho de compras, desenvolvido em dupla com [@ArthurBigdedd](https://github.com/ArthurBigdedd), tem repositório próprio: [simulador-carrinho-compras-java](https://github.com/quietsunset95/simulador-carrinho-compras-java). Feita no primeiro semestre
+
